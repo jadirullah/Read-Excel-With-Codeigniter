@@ -14,6 +14,11 @@ dan anda tinggal clone saja seperti berikut
 
 ```git clone https://github.com/jadirullah/Read-Excel-With-Codeigniter.git```
 
+Berikut Priview dari hasil nya 
+
+
+![alt text](https://github.com/jadirullah/Read-Excel-With-Codeigniter/blob/master/public/sample.png)
+
 Terimakasih,
 
 
